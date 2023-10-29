@@ -147,7 +147,7 @@ nav {
   column-gap: 12px;
   list-style: none;
   padding: 8px 40px;
-  background-color: transparent;
+  background-color: var(--popupsAndResposiveMenu‎);
   z-index: 1000;
   width: 100%;
   transition: all 0.3s ease;
